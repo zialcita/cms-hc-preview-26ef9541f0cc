@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-30@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:ZooTampa New Year's Celebration
+LOCATION:ZooTampa at Lowry Park, Tampa
+DESCRIPTION:10 AM–4 PM (2025 time). Details: https://tampalivenews.com/new-years-eve/ — Look your best: Massage therapy by Tue, Dec 29. Book: https://creationsmedspa.com/reserve-now/
+URL:https://tampalivenews.com/new-years-eve/
+END:VEVENT
+END:VCALENDAR

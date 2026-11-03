@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-27@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Winter Wonder Ride (15th annual)
+LOCATION:Thunder Alley / Bayshore Blvd, Tampa
+DESCRIPTION:See organizer. Details: https://wintervillagetampa.com/ — Look your best: Massage therapy by Thu, Dec 17. Book: https://creationsmedspa.com/reserve-now/
+URL:https://wintervillagetampa.com/
+END:VEVENT
+END:VCALENDAR

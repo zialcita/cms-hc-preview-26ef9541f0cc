@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-9@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:BayCare Wobble Turkey Trot
+LOCATION:Tampa Premium Outlets, Lutz
+DESCRIPTION:Morning (packet pickup 6 AM). Details: https://www.fleetfeet.com/races/fl/lutz/113250-baycare-wobble-turkey-trot — Look your best: Massage therapy by Tue, Nov 24. Book: https://creationsmedspa.com/reserve-now/
+URL:https://www.fleetfeet.com/races/fl/lutz/113250-baycare-wobble-turkey-trot
+END:VEVENT
+END:VCALENDAR

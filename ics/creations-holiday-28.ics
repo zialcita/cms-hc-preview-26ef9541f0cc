@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-28@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261226
+SUMMARY:Christmas Eve & Christmas Day
+LOCATION:Home with the people you love, Tampa Bay
+DESCRIPTION:. Details: https://creationsmedspa.com/reserve-now/ — Look your best: Tox (wrinkle relaxer) by Thu, Dec 3; Dermal fillers by Thu, Dec 3; Hydrodermabrasion, dermaplaning & specialty facials by Sat, Dec 19. Book: https://creationsmedspa.com/reserve-now/
+URL:https://creationsmedspa.com/reserve-now/
+END:VEVENT
+END:VCALENDAR

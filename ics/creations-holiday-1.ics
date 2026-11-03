@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-1@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20270105
+SUMMARY:Christmas Town opens + Tree Lighting
+LOCATION:Busch Gardens Tampa Bay, Tampa
+DESCRIPTION:Select dates; tree lighting Nov 13, 7 PM. Details: https://buschgardens.com/tampa/events/christmas-town/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Tue, Nov 10; Tox (wrinkle relaxer) this week. Book: https://creationsmedspa.com/reserve-now/
+URL:https://buschgardens.com/tampa/events/christmas-town/
+END:VEVENT
+END:VCALENDAR

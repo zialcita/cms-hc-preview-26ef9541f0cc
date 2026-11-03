@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-29@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:New Year's Eve Riverwalk Fireworks
+LOCATION:Hillsborough River at Jackson's Bistro, Downtown Tampa
+DESCRIPTION:Midnight (2025 show). Details: https://tampalivenews.com/new-years-eve/ — Look your best: Tox (wrinkle relaxer) by Thu, Dec 10; Dermal fillers by Thu, Dec 10; Hydrodermabrasion, dermaplaning & specialty facials by Sat, Dec 26. Book: https://creationsmedspa.com/reserve-now/
+URL:https://tampalivenews.com/new-years-eve/
+END:VEVENT
+END:VCALENDAR

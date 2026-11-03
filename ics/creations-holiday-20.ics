@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-20@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Santa Cares Sensory-Friendly Santa
+LOCATION:The Shops at Wiregrass, Wesley Chapel
+DESCRIPTION:9:30–10:30 AM. Details: https://wesleychapelnow.com/holiday-lights-and-christmas-events/ — Look your best: Massage therapy by Fri, Dec 4. Book: https://creationsmedspa.com/reserve-now/
+URL:https://wesleychapelnow.com/holiday-lights-and-christmas-events/
+END:VEVENT
+END:VCALENDAR

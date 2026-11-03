@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-10@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20270101
+SUMMARY:Victorian Christmas Stroll (45th annual)
+LOCATION:Henry B. Plant Museum, Downtown Tampa
+DESCRIPTION:Tue–Sat 10–5, Sun 12–5. Details: https://www.plantmuseum.com/exhibits/current-exhibits/45th-annual-victorian-christmas-stroll — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Tue, Nov 24. Book: https://creationsmedspa.com/reserve-now/
+URL:https://www.plantmuseum.com/exhibits/current-exhibits/45th-annual-victorian-christmas-stroll
+END:VEVENT
+END:VCALENDAR

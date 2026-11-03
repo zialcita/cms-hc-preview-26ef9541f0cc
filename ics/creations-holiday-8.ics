@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-8@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Tampa YMCA Turkey Gobble 5K
+LOCATION:Benchmark International Arena, Downtown Tampa
+DESCRIPTION:5K 7 AM; 1-mile 8:15 AM. Details: https://runsignup.com/Race/FL/Tampa/TampaYMCATurkeyGobble — Look your best: Massage therapy by Tue, Nov 24. Book: https://creationsmedspa.com/reserve-now/
+URL:https://runsignup.com/Race/FL/Tampa/TampaYMCATurkeyGobble
+END:VEVENT
+END:VCALENDAR

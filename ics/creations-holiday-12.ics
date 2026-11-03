@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-12@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Shop Small Weekend at Winter Village
+LOCATION:Curtis Hixon Waterfront Park, Downtown Tampa
+DESCRIPTION:1–4 PM. Details: https://tampabayparenting.com/best-holiday-lights-in-tampa-1477/ — Look your best: Massage therapy by Thu, Nov 26. Book: https://creationsmedspa.com/reserve-now/
+URL:https://tampabayparenting.com/best-holiday-lights-in-tampa-1477/
+END:VEVENT
+END:VCALENDAR

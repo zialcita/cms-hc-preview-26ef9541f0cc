@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-11@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Christmas in the Wild — Member Preview
+LOCATION:ZooTampa at Lowry Park, Tampa
+DESCRIPTION:4–10 PM. Details: https://zootampa.org/series/christmas-in-the-wild/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Tue, Nov 24. Book: https://creationsmedspa.com/reserve-now/
+URL:https://zootampa.org/series/christmas-in-the-wild/
+END:VEVENT
+END:VCALENDAR

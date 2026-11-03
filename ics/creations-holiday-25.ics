@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-25@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261223
+SUMMARY:The Nutcracker
+LOCATION:Straz Center, Downtown Tampa
+DESCRIPTION:See Straz schedule. Details: https://tampabayparenting.com/where-to-see-the-nutcracker-in-tampa-bay-1647/ — Look your best: Tox (wrinkle relaxer) by Fri, Nov 27; Hydrodermabrasion, dermaplaning & specialty facials by Tue, Dec 15. Book: https://creationsmedspa.com/reserve-now/
+URL:https://tampabayparenting.com/where-to-see-the-nutcracker-in-tampa-bay-1647/
+END:VEVENT
+END:VCALENDAR

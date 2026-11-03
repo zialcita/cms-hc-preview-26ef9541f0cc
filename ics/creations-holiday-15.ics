@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-15@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261231
+SUMMARY:Christmas in the Wild (public nights begin)
+LOCATION:ZooTampa at Lowry Park, Tampa
+DESCRIPTION:Select nights 4–10 PM. Details: https://zootampa.org/series/christmas-in-the-wild/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Tue, Dec 1. Book: https://creationsmedspa.com/reserve-now/
+URL:https://zootampa.org/series/christmas-in-the-wild/
+END:VEVENT
+END:VCALENDAR

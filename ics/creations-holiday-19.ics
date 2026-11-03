@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-19@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:St. Pete Snowfest
+LOCATION:North Straub Park, St. Petersburg
+DESCRIPTION:9 AM–2 PM. Details: https://stpetenow.com/holiday-lights-and-christmas-events/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Wed, Dec 2. Book: https://creationsmedspa.com/reserve-now/
+URL:https://stpetenow.com/holiday-lights-and-christmas-events/
+END:VEVENT
+END:VCALENDAR

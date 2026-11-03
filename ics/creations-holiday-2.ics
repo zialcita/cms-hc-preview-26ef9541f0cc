@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-2@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Symphony in Lights Kickoff & Santa's Arrival
+LOCATION:The Shops at Wiregrass, Wesley Chapel
+DESCRIPTION:Times TBA by organizer. Details: https://wesleychapelnow.com/holiday-lights-and-christmas-events/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Wed, Nov 11. Book: https://creationsmedspa.com/reserve-now/
+URL:https://wesleychapelnow.com/holiday-lights-and-christmas-events/
+END:VEVENT
+END:VCALENDAR

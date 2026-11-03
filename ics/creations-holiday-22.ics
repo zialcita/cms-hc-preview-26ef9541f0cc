@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-22@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Clearwater Holiday Lighted Boat Parade (52nd)
+LOCATION:Clearwater Harbor, Clearwater
+DESCRIPTION:6 PM. Details: https://www.clearwateryachtclub.org/special-events/holidayboatparade — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Wed, Dec 9. Book: https://creationsmedspa.com/reserve-now/
+URL:https://www.clearwateryachtclub.org/special-events/holidayboatparade
+END:VEVENT
+END:VCALENDAR

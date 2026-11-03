@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-7@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Zephyrhills Christmas Tree Lighting
+LOCATION:Downtown Zephyrhills (5th Ave), Zephyrhills
+DESCRIPTION:7 PM. Details: https://wesleychapelnow.com/christmas-parade-and-tree-lighting/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Fri, Nov 20. Book: https://creationsmedspa.com/reserve-now/
+URL:https://wesleychapelnow.com/christmas-parade-and-tree-lighting/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-24@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Gasparilla Bowl
+LOCATION:Raymond James Stadium, Tampa
+DESCRIPTION:Kickoff 2:30 PM. Details: https://tampalivenews.com/gasparilla-bowl/ — Look your best: Massage therapy by Wed, Dec 16. Book: https://creationsmedspa.com/reserve-now/
+URL:https://tampalivenews.com/gasparilla-bowl/
+END:VEVENT
+END:VCALENDAR

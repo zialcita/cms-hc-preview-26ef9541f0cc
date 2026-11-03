@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-3@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Snowcat Ridge snow park season opens
+LOCATION:Snowcat Ridge, Dade City
+DESCRIPTION:See park schedule. Details: https://www.snowcatridge.com/ — Look your best: Massage therapy by Thu, Nov 12. Book: https://creationsmedspa.com/reserve-now/
+URL:https://www.snowcatridge.com/
+END:VEVENT
+END:VCALENDAR

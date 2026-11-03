@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-21@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Avalon Aglow + Fireworks
+LOCATION:Avalon Park Wesley Chapel, 4424 Friendly Way, Wesley Chapel
+DESCRIPTION:From 5 PM. Details: https://wesleychapelnow.com/christmas-parade-and-tree-lighting/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Wed, Dec 9. Book: https://creationsmedspa.com/reserve-now/
+URL:https://wesleychapelnow.com/christmas-parade-and-tree-lighting/
+END:VEVENT
+END:VCALENDAR

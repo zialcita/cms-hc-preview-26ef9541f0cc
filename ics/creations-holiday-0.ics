@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Calendar//EN
+BEGIN:VEVENT
+UID:creations-holiday-0@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261115
+SUMMARY:Tox Week at Creations
+LOCATION:Creations Med Spa, Lutz
+DESCRIPTION:During business hours. Details: https://creationsmedspa.com/reserve-now/ — Look your best: Tox (wrinkle relaxer) this week. Book: https://creationsmedspa.com/reserve-now/
+URL:https://creationsmedspa.com/reserve-now/
+END:VEVENT
+END:VCALENDAR
