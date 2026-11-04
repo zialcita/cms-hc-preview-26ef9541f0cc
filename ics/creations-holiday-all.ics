@@ -1,0 +1,316 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creations Med Spa//Holiday Glow Calendar 2026//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Tampa Bay Holiday Glow Calendar 2026
+BEGIN:VEVENT
+UID:creations-holiday-0@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261115
+SUMMARY:Tox Week at Creations
+LOCATION:Creations Med Spa, Lutz
+DESCRIPTION:During business hours. Details: https://creationsmedspa.com/reserve-now/ — Look your best: Tox (wrinkle relaxer) this week. Book: https://creationsmedspa.com/reserve-now/
+URL:https://creationsmedspa.com/reserve-now/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-1@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20270105
+SUMMARY:Christmas Town opens + Tree Lighting
+LOCATION:Busch Gardens Tampa Bay, Tampa
+DESCRIPTION:Select dates; tree lighting Nov 13, 7 PM. Details: https://buschgardens.com/tampa/events/christmas-town/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Tue, Nov 10; Tox (wrinkle relaxer) this week. Book: https://creationsmedspa.com/reserve-now/
+URL:https://buschgardens.com/tampa/events/christmas-town/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-2@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Symphony in Lights Kickoff & Santa's Arrival
+LOCATION:The Shops at Wiregrass, Wesley Chapel
+DESCRIPTION:Times TBA by organizer. Details: https://wesleychapelnow.com/holiday-lights-and-christmas-events/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Wed, Nov 11. Book: https://creationsmedspa.com/reserve-now/
+URL:https://wesleychapelnow.com/holiday-lights-and-christmas-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-3@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Snowcat Ridge snow park season opens
+LOCATION:Snowcat Ridge, Dade City
+DESCRIPTION:See park schedule. Details: https://www.snowcatridge.com/ — Look your best: Massage therapy by Thu, Nov 12. Book: https://creationsmedspa.com/reserve-now/
+URL:https://www.snowcatridge.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-4@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Ybor City Tree Lighting
+LOCATION:Centro Ybor, Ybor City
+DESCRIPTION:6–9 PM. Details: https://tampabayparenting.com/best-holiday-lights-in-tampa-1477/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Sat, Nov 14. Book: https://creationsmedspa.com/reserve-now/
+URL:https://tampabayparenting.com/best-holiday-lights-in-tampa-1477/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-5@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Holiday Happening & Tree Lighting
+LOCATION:Hyde Park Village, South Tampa
+DESCRIPTION:5:30–8 PM; tree 7:45 PM. Details: https://hydeparkvillage.com/event/holiday-happening/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Sat, Nov 14; Tox (wrinkle relaxer) this week. Book: https://creationsmedspa.com/reserve-now/
+URL:https://hydeparkvillage.com/event/holiday-happening/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-6@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20270104
+SUMMARY:Winter Village opens
+LOCATION:Curtis Hixon Waterfront Park, Downtown Tampa
+DESCRIPTION:Daily; hours vary. Details: https://wintervillagetampa.com/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Tue, Nov 17. Book: https://creationsmedspa.com/reserve-now/
+URL:https://wintervillagetampa.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-7@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Zephyrhills Christmas Tree Lighting
+LOCATION:Downtown Zephyrhills (5th Ave), Zephyrhills
+DESCRIPTION:7 PM. Details: https://wesleychapelnow.com/christmas-parade-and-tree-lighting/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Fri, Nov 20. Book: https://creationsmedspa.com/reserve-now/
+URL:https://wesleychapelnow.com/christmas-parade-and-tree-lighting/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-8@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Tampa YMCA Turkey Gobble 5K
+LOCATION:Benchmark International Arena, Downtown Tampa
+DESCRIPTION:5K 7 AM; 1-mile 8:15 AM. Details: https://runsignup.com/Race/FL/Tampa/TampaYMCATurkeyGobble — Look your best: Massage therapy by Tue, Nov 24. Book: https://creationsmedspa.com/reserve-now/
+URL:https://runsignup.com/Race/FL/Tampa/TampaYMCATurkeyGobble
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-9@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:BayCare Wobble Turkey Trot
+LOCATION:Tampa Premium Outlets, Lutz
+DESCRIPTION:Morning (packet pickup 6 AM). Details: https://www.fleetfeet.com/races/fl/lutz/113250-baycare-wobble-turkey-trot — Look your best: Massage therapy by Tue, Nov 24. Book: https://creationsmedspa.com/reserve-now/
+URL:https://www.fleetfeet.com/races/fl/lutz/113250-baycare-wobble-turkey-trot
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-10@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20270101
+SUMMARY:Victorian Christmas Stroll (45th annual)
+LOCATION:Henry B. Plant Museum, Downtown Tampa
+DESCRIPTION:Tue–Sat 10–5, Sun 12–5. Details: https://www.plantmuseum.com/exhibits/current-exhibits/45th-annual-victorian-christmas-stroll — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Tue, Nov 24. Book: https://creationsmedspa.com/reserve-now/
+URL:https://www.plantmuseum.com/exhibits/current-exhibits/45th-annual-victorian-christmas-stroll
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-11@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Christmas in the Wild — Member Preview
+LOCATION:ZooTampa at Lowry Park, Tampa
+DESCRIPTION:4–10 PM. Details: https://zootampa.org/series/christmas-in-the-wild/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Tue, Nov 24. Book: https://creationsmedspa.com/reserve-now/
+URL:https://zootampa.org/series/christmas-in-the-wild/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-12@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Shop Small Weekend at Winter Village
+LOCATION:Curtis Hixon Waterfront Park, Downtown Tampa
+DESCRIPTION:1–4 PM. Details: https://tampabayparenting.com/best-holiday-lights-in-tampa-1477/ — Look your best: Massage therapy by Thu, Nov 26. Book: https://creationsmedspa.com/reserve-now/
+URL:https://tampabayparenting.com/best-holiday-lights-in-tampa-1477/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-13@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:YuleTides at The Florida Aquarium
+LOCATION:The Florida Aquarium, Channelside, Tampa
+DESCRIPTION:2026 dates not posted. Details: https://www.flaquarium.org/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Wed, Nov 25. Book: https://creationsmedspa.com/reserve-now/
+URL:https://www.flaquarium.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-14@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Riverwalk Tree Lighting
+LOCATION:Tampa Convention Center & The Sail Plaza, Downtown Tampa
+DESCRIPTION:5–8 PM (rain date Dec 4). Details: https://tampalivenews.com/holiday-lights-and-christmas-events/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Thu, Nov 26. Book: https://creationsmedspa.com/reserve-now/
+URL:https://tampalivenews.com/holiday-lights-and-christmas-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-15@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261231
+SUMMARY:Christmas in the Wild (public nights begin)
+LOCATION:ZooTampa at Lowry Park, Tampa
+DESCRIPTION:Select nights 4–10 PM. Details: https://zootampa.org/series/christmas-in-the-wild/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Tue, Dec 1. Book: https://creationsmedspa.com/reserve-now/
+URL:https://zootampa.org/series/christmas-in-the-wild/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-16@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261213
+SUMMARY:Hanukkah begins at sundown
+LOCATION:Community-wide, Tampa Bay
+DESCRIPTION:Sundown. Details: https://wesleychapelnow.com/holiday-lights-and-christmas-events/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Tue, Dec 1; Tox (wrinkle relaxer) by Fri, Nov 13. Book: https://creationsmedspa.com/reserve-now/
+URL:https://wesleychapelnow.com/holiday-lights-and-christmas-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-17@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Tampa's Santa Fest & Tree Lighting
+LOCATION:Downtown Tampa / Curtis Hixon Park, Downtown Tampa
+DESCRIPTION:Parade 1 PM; tree 6 PM. Details: https://wintervillagetampa.com/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Wed, Dec 2; Tox (wrinkle relaxer) by Sat, Nov 14. Book: https://creationsmedspa.com/reserve-now/
+URL:https://wintervillagetampa.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-18@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Zephyrhills Festival of Lights & Parade
+LOCATION:Downtown Zephyrhills, Zephyrhills
+DESCRIPTION:4–9 PM; parade 7 PM. Details: https://wesleychapelnow.com/christmas-parade-and-tree-lighting/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Wed, Dec 2. Book: https://creationsmedspa.com/reserve-now/
+URL:https://wesleychapelnow.com/christmas-parade-and-tree-lighting/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-19@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:St. Pete Snowfest
+LOCATION:North Straub Park, St. Petersburg
+DESCRIPTION:9 AM–2 PM. Details: https://stpetenow.com/holiday-lights-and-christmas-events/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Wed, Dec 2. Book: https://creationsmedspa.com/reserve-now/
+URL:https://stpetenow.com/holiday-lights-and-christmas-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-20@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Santa Cares Sensory-Friendly Santa
+LOCATION:The Shops at Wiregrass, Wesley Chapel
+DESCRIPTION:9:30–10:30 AM. Details: https://wesleychapelnow.com/holiday-lights-and-christmas-events/ — Look your best: Massage therapy by Fri, Dec 4. Book: https://creationsmedspa.com/reserve-now/
+URL:https://wesleychapelnow.com/holiday-lights-and-christmas-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-21@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Avalon Aglow + Fireworks
+LOCATION:Avalon Park Wesley Chapel, 4424 Friendly Way, Wesley Chapel
+DESCRIPTION:From 5 PM. Details: https://wesleychapelnow.com/christmas-parade-and-tree-lighting/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Wed, Dec 9. Book: https://creationsmedspa.com/reserve-now/
+URL:https://wesleychapelnow.com/christmas-parade-and-tree-lighting/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-22@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Clearwater Holiday Lighted Boat Parade (52nd)
+LOCATION:Clearwater Harbor, Clearwater
+DESCRIPTION:6 PM. Details: https://www.clearwateryachtclub.org/special-events/holidayboatparade — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Wed, Dec 9. Book: https://creationsmedspa.com/reserve-now/
+URL:https://www.clearwateryachtclub.org/special-events/holidayboatparade
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-23@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Downtown St. Pete Lighted Boat Parade
+LOCATION:St. Pete Municipal Marina, St. Petersburg
+DESCRIPTION:6:30 PM. Details: https://stpetenow.com/holiday-lights-and-christmas-events/ — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Wed, Dec 9. Book: https://creationsmedspa.com/reserve-now/
+URL:https://stpetenow.com/holiday-lights-and-christmas-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-24@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Gasparilla Bowl
+LOCATION:Raymond James Stadium, Tampa
+DESCRIPTION:Kickoff 2:30 PM. Details: https://tampalivenews.com/gasparilla-bowl/ — Look your best: Massage therapy by Wed, Dec 16. Book: https://creationsmedspa.com/reserve-now/
+URL:https://tampalivenews.com/gasparilla-bowl/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-25@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261223
+SUMMARY:The Nutcracker
+LOCATION:Straz Center, Downtown Tampa
+DESCRIPTION:See Straz schedule. Details: https://tampabayparenting.com/where-to-see-the-nutcracker-in-tampa-bay-1647/ — Look your best: Tox (wrinkle relaxer) by Fri, Nov 27; Hydrodermabrasion, dermaplaning & specialty facials by Tue, Dec 15. Book: https://creationsmedspa.com/reserve-now/
+URL:https://tampabayparenting.com/where-to-see-the-nutcracker-in-tampa-bay-1647/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-26@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Holiday Lighted Boat Parade
+LOCATION:Hillsborough River (Sparkman Wharf to Armature Works), Downtown Tampa
+DESCRIPTION:6:15 PM. Details: https://thetampariverwalk.com/events/holiday-lighted-boat-parade.html — Look your best: Hydrodermabrasion, dermaplaning & specialty facials by Wed, Dec 16; Tox (wrinkle relaxer) by Sat, Nov 28. Book: https://creationsmedspa.com/reserve-now/
+URL:https://thetampariverwalk.com/events/holiday-lighted-boat-parade.html
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-27@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Winter Wonder Ride (15th annual)
+LOCATION:Thunder Alley / Bayshore Blvd, Tampa
+DESCRIPTION:See organizer. Details: https://wintervillagetampa.com/ — Look your best: Massage therapy by Thu, Dec 17. Book: https://creationsmedspa.com/reserve-now/
+URL:https://wintervillagetampa.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-28@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261226
+SUMMARY:Christmas Eve & Christmas Day
+LOCATION:Home with the people you love, Tampa Bay
+DESCRIPTION:. Details: https://creationsmedspa.com/reserve-now/ — Look your best: Tox (wrinkle relaxer) by Thu, Dec 3; Dermal fillers by Thu, Dec 3; Hydrodermabrasion, dermaplaning & specialty facials by Sat, Dec 19. Book: https://creationsmedspa.com/reserve-now/
+URL:https://creationsmedspa.com/reserve-now/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-29@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:New Year's Eve Riverwalk Fireworks
+LOCATION:Hillsborough River at Jackson's Bistro, Downtown Tampa
+DESCRIPTION:Midnight (2025 show). Details: https://tampalivenews.com/new-years-eve/ — Look your best: Tox (wrinkle relaxer) by Thu, Dec 10; Dermal fillers by Thu, Dec 10; Hydrodermabrasion, dermaplaning & specialty facials by Sat, Dec 26. Book: https://creationsmedspa.com/reserve-now/
+URL:https://tampalivenews.com/new-years-eve/
+END:VEVENT
+BEGIN:VEVENT
+UID:creations-holiday-30@creationsmedspa.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:ZooTampa New Year's Celebration
+LOCATION:ZooTampa at Lowry Park, Tampa
+DESCRIPTION:10 AM–4 PM (2025 time). Details: https://tampalivenews.com/new-years-eve/ — Look your best: Massage therapy by Tue, Dec 29. Book: https://creationsmedspa.com/reserve-now/
+URL:https://tampalivenews.com/new-years-eve/
+END:VEVENT
+END:VCALENDAR
